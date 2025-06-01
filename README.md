@@ -101,7 +101,7 @@ If this code helps your research, please cite our paper:
 	}
 
 # Acknowledgement
-This implementation of STN is largely based on the PyTorch implementation of <a hreft="https://github.com/sergeywong/cp-vton">CP-VTON</a>. We are extremely grateful for their public implementation.
+This implementation of STN is largely based on the PyTorch implementation of [CP-VTON](https://github.com/sergeywong/cp-vton). We are extremely grateful for their public implementation.
 
 # License
 ADOXMonitoring is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the [license](./LICENSE) for further details. For commercial queries, please contact [Prof.Yong Suk Chung](mailto:yschung@jejunu.ac.kr).

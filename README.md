@@ -82,7 +82,7 @@ wheel              0.40.0
 yolo2labelme       0.0.4
 
 
-# Pretrained model of YOLOv8 Tree Instance Segmentation
+# Pretrained model of YOLOv11
 You can download pretrained model from here: https://drive.google.com/file/d/1EhHSaNd_ub0rhQwWq53aIIarpWVgUayd/view?usp=sharing
 
 
